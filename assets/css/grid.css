@@ -1,0 +1,45 @@
+h4 {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.row {
+  margin-bottom: 20px;
+}
+.row .row {
+  /*margin-top: 10px;*/
+  margin-bottom: 0;
+}
+[class*="col-"] {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #eee;
+  background-color: rgba(86,61,124,.15);
+  border: 1px solid #ddd;
+  border: 1px solid rgba(86,61,124,.2);
+}
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.dark {
+  color: #000 !important;
+  font-size: 19px !important;
+  border-color: #000 !important;
+}
+
+
+<style type="text/css">
+#pagination{
+  display: inline;
+  border: solid;
+  border-radius:0.25rem;
+  border-color: #3787d8;
+}
+#pagination a:link{
+  border-color: #dee2e6;
+  padding: 5px;
+  margin-top: 2px;
+}
+</style>

@@ -1,0 +1,3 @@
+/var/www/webroot/ROOT/grs
+
+unzip /var/www/webroot/ROOT/grs/grs.zip -d /var/www/webroot/ROOT/grs
